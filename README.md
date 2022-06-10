@@ -1,8 +1,7 @@
-### Hi there 👋
-
+![A passionate Software Engineer](https://media-exp2.licdn.com/dms/image/C4D16AQFD4ItRBKeqYg/profile-displaybackgroundimage-shrink_350_1400/0/1632122426862?e=1660176000&v=beta&t=4ZXI4jbQRcPElyHgxnwVqKIhZb7kOpL2Wv4pNA-HniU)
 ### Hi there 👋, my name is Masuk Mia
 #### A passionate Software Engineer
-![A passionate Software Engineer](https://media-exp2.licdn.com/dms/image/C4D16AQFD4ItRBKeqYg/profile-displaybackgroundimage-shrink_350_1400/0/1632122426862?e=1660176000&v=beta&t=4ZXI4jbQRcPElyHgxnwVqKIhZb7kOpL2Wv4pNA-HniU)
+
 
 I’m a Software Engineer who is passionate about making applications and any kind of website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 25 websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with a Full stack Web developer but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP, and PHP framework Wordpress and laravel.
 
