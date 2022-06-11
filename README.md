@@ -16,8 +16,6 @@ I'm have passed undergraduate my bachelor's in computer science and engineering.
 Design:HTML Template ,PSD Template
 
 All social media links are given here: linktree.com/masukmia
-Instagram:https://www.instagram.com/mrmasukmia
-Twitter:https://twitter.com/mrmasukmia
 
 ✔ for further query please feel free to knock me.
 ✔send me email:dev.masuk@gmail.com/masukmia.eng.bd@gmail.com
